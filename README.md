@@ -1,2 +1,2 @@
 # Resume
-This is my own Resume. I will be keeping updating in future.
+This is my Resume. I will be keeping myself updated in the future.
