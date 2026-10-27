@@ -19,6 +19,7 @@
 | [Education](Education.md) | Master of IT (CQU), Bachelor of Social Science (BUP) |
 | [Achievements](Achievements.md) | Best Project Output — First Place (CQUniversity, 2026) |
 | [Certifications](Certifications.md) | Google Cybersecurity, Bug Bounty from Scratch |
+| [Certificates](Certificates/) | Certificate and award documents |
 | [Projects](Projects.md) | Capstone and network security projects |
 | [Skills](Skills.md) | Soft and technical skills |
 | [Work Experience](Experiences.md) | IT Support Specialist |
@@ -47,16 +48,18 @@ Driven cybersecurity professional with a clear ambition: to become one of the **
 *October 2026*
 - Awarded for the highest-quality project output of all capstone project groups in the Master and Bachelor of Information Technology courses, Term 2, 2026.
 - Project: *Cyber Resilience for an Agribusiness Back Office* — COIT20265: Network & Information Security Capstone Project. Mentored by Associate Professor Fariza Sabrina.
+- 📄 [View award certificate (PDF)](Certificates/CQU_Best-Project-Output_First-Place.pdf)
 
 ## 📜 Certifications
 
 **Google Cybersecurity Professional Certificate** — *Google · Coursera* · *In Progress*
-- Foundations of Cybersecurity — Completed (December 2025)
-- Play It Safe: Manage Security Risks — Completed (December 2025)
-- Connect and Protect: Networks and Network Security — Completed (January 2026)
+- Foundations of Cybersecurity — Completed (December 2025) · [📄 Certificate](Certificates/Foundations-of-Cybersecurity.png)
+- Play It Safe: Manage Security Risks — Completed (December 2025) · [📄 Certificate](Certificates/Play-It-Safe_Manage-Security-Risks.png)
+- Connect and Protect: Networks and Network Security — Completed (January 2026) · [📄 Certificate](Certificates/Connect-and-Protect_Networks-and-Network-Security.png)
 
 **Bug Bounty from Scratch** — *Packt · Coursera* · *October 2026*
 - Completed training in bug bounty methodology: reconnaissance, discovering and exploiting common web application vulnerabilities, and responsible reporting.
+- [📄 Certificate](Certificates/Bug-Bounty-from-Scratch_Packt.png)
 
 ## 🚀 Projects
 

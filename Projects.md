@@ -8,7 +8,7 @@
 - **MON01 — Security monitoring:** Wazuh SIEM for real-time threat detection and alerting.
 - **BKP01 — Isolated encrypted backup:** MinIO and Restic, enabling full recovery after an attack.
 - Delivered a working **detect → contain → recover** chain, proven with a live ransomware simulation.
-- 🏆 Awarded **Best Project Output — First Place** across all CQUniversity IT capstone groups (T2, 2026).
+- 🏆 Awarded **Best Project Output — First Place** across all CQUniversity IT capstone groups (T2, 2026). [📄 Award certificate](Certificates/CQU_Best-Project-Output_First-Place.pdf)
 
 ### Advanced Network Security Project
 *COIT20262: Advanced Network Security* · **April 2026**
