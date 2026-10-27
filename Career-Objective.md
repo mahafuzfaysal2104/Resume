@@ -1,9 +1,11 @@
 # 🎯 Career Objective
 
-Motivated IT postgraduate student specializing in **Networks and Information Security**, seeking an internship or entry-level role in **IT Support, Cybersecurity, or SOC operations**.
+Driven cybersecurity professional with a clear ambition: to become one of the **leading cybersecurity experts in the world**.
 
-Skilled in troubleshooting, system administration, network security, and hands-on security tools. Actively developing advanced skills through coursework in **Network Security, Information Security Management, and Enterprise Cloud Networking**.
+Master of Information Technology candidate specialising in **Networks and Information Security**, whose capstone team won **Best Project Output (First Place)** across all CQUniversity IT capstone groups.
 
-Committed to contributing to secure, efficient IT operations while growing into a cybersecurity professional.
+Proven hands-on ability to design and defend real infrastructure — **firewall segmentation, SIEM monitoring, MFA, and encrypted, isolated backups** — validated against a live ransomware simulation.
+
+Seeking a role in **Security Operations, Network Security, or Incident Response** where I can protect organisations today while relentlessly building the depth, certifications and experience to lead cyber defence at a global level.
 
 [← Back to Resume](README.md)

@@ -1,15 +1,11 @@
 # 🏆 Achievements
 
-### Foundations of Cybersecurity — 98.68%
-*Coursera* · **December 2025**
-- Gained understanding of core cybersecurity concepts, security ethics, attack impacts, and analyst tools.
+### Best Project Output — "First Place"
+*CQUniversity — College of Information and Communications Technology (CoICT)* · **October 2026**
+- Awarded for the highest-quality project output of all capstone project groups in the Master and Bachelor of Information Technology courses, Term 2, 2026.
+- Project: *Cyber Resilience for an Agribusiness Back Office* — COIT20265: Network & Information Security Capstone Project.
+- Mentored by Associate Professor Fariza Sabrina.
 
-### Play It Safe: Manage Security Risks — 94.95%
-*Coursera* · **December 2025**
-- Learned risk management, threat identification, SIEM fundamentals, and how to use playbooks for incident response.
-
-### Connect & Protect: Networks and Network Security — 96.43%
-*Coursera* · **December 2025**
-- Developed skills in network types, intrusion prevention, TCP/IP, firewalls, VPNs, and system hardening.
+➡️ See the full project write-up in [Projects.md](Projects.md).
 
 [← Back to Resume](README.md)
