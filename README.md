@@ -30,7 +30,7 @@
 
 ## 🎯 Career Objective
 
-Driven cybersecurity professional with a clear ambition: to become one of the **leading cybersecurity experts in the world**. Master of Information Technology candidate specialising in **Networks and Information Security**, whose capstone team won **Best Project Output (First Place)** across all CQUniversity IT capstone groups. Proven hands-on ability to design and defend real infrastructure — **firewall segmentation, SIEM monitoring, MFA, and encrypted, isolated backups** — validated against a live ransomware simulation. Seeking a role in **Security Operations, Network Security, or Incident Response** where I can protect organisations today while relentlessly building the depth, certifications and experience to lead cyber defence at a global level.
+Driven cybersecurity professional with a clear ambition: to become one of the **top cybersecurity professionals in the world**. Master of Information Technology candidate specialising in **Networks and Information Security**, whose capstone team won **Best Project Output (First Place)** across all CQUniversity IT capstone groups. Proven hands-on ability to design and defend real infrastructure, including **firewall segmentation, SIEM monitoring, MFA and encrypted, isolated backups**, validated against a live ransomware simulation. Seeking a role in **Security Operations, Network Security or Incident Response** where I can protect organisations today while building the depth, certifications and experience to lead cyber defence at a global level.
 
 ## 🎓 Education
 
@@ -44,7 +44,7 @@ Driven cybersecurity professional with a clear ambition: to become one of the **
 
 ## 🏆 Achievements
 
-**Best Project Output — "First Place"** — *CQUniversity, College of Information and Communications Technology (CoICT)*
+**Best Project Output — "First Place"** — *CQUniversity*
 *October 2026*
 - Awarded for the highest-quality project output of all capstone project groups in the Master and Bachelor of Information Technology courses, Term 2, 2026.
 - Project: *Cyber Resilience for an Agribusiness Back Office* — COIT20265: Network & Information Security Capstone Project. Mentored by Associate Professor Fariza Sabrina.
@@ -65,7 +65,7 @@ Driven cybersecurity professional with a clear ambition: to become one of the **
 
 | Project | Course | Date | Result |
 |---|---|---|---|
-| Cyber Resilience for an Agribusiness Back Office (AG-3) — Capstone Group Project | COIT20265 – Network & Information Security Capstone Project | Oct 2026 | 🏆 Best Project Output — First Place |
+| Cyber Resilience for an Agribusiness Back Office — Capstone Project | COIT20265 – Network & Information Security Capstone Project | Oct 2026 | 🏆 Best Project Output — First Place |
 | Advanced Network Security Project | COIT20262 – Advanced Network Security | Apr 2026 | 35 / 35 — Top Distinction |
 
 ➡️ Full project descriptions: [Projects.md](Projects.md)
@@ -81,7 +81,7 @@ Driven cybersecurity professional with a clear ambition: to become one of the **
 | Growth Mindset | Access Control & Authentication, Security Governance, **NIST frameworks** |
 | Diverse Perspective | **Operating Systems:** Linux (Ubuntu, Kali), Windows Server, macOS |
 | Team Collaboration | **Cloud & Security:** AWS, Azure, Microsoft Cloud, Cryptography basics |
-| | **Security Tools:** Nmap, Wireshark, tcpdump, Burp Suite, Nessus, FileZilla, pfSense, OpenSSL |
+| | **Security Tools:** Nmap, Wireshark, tcpdump, Burp Suite, Nessus, FileZilla, MinIO, Restic |
 
 ## 💼 Work Experience
 

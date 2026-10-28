@@ -7,7 +7,7 @@
 - **Security Governance:** Access Control & Authentication, Security Governance, NIST frameworks
 - **Operating Systems:** Linux (Ubuntu, Kali), Windows Server, macOS
 - **Cloud & Security:** AWS, Azure, Microsoft Cloud, Cryptography basics
-- **Security Tools:** Nmap, Wireshark, tcpdump, Burp Suite, Nessus, FileZilla, pfSense, OpenSSL
+- **Security Tools:** Nmap, Wireshark, tcpdump, Burp Suite, Nessus, FileZilla, MinIO, Restic
 
 ## Soft Skills
 - Communication
